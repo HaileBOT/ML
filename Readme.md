@@ -1,3 +1,5 @@
+# Name: Hailemariam Dagnew
+# ID: UGR/0344/16
 # Software Support Ticket Resolution Time Estimation
 
 This repository contains the prototype implementation for estimating software support ticket resolution times (`resolution_hours`). The analysis compares a naive baseline, Ordinary Least Squares (OLS) Linear Regression, Polynomial Regression (degrees 2 and 3), Ridge Regression, and Lasso Regression using a reproducible cross-validation and evaluation pipeline.

@@ -76,21 +76,3 @@ No:
 4. **Shadow Validation:** Run the model silently in production triage to validate estimates against actual resolution times before presenting predictions to engineering teams.
 
 ---
-
-## 4. How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/ticket-resolution-ml.git
-   cd ticket-resolution-ml
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Launch JupyterLab or execute the notebook:
-   ```bash
-   jupyter lab lab_ticket_resolution_walkthrough.ipynb
-   ```
